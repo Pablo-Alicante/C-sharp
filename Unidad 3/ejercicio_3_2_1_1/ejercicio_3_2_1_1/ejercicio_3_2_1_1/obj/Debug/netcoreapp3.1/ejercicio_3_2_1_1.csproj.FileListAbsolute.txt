@@ -1,0 +1,25 @@
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.exe
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.deps.json
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.runtimeconfig.json
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.runtimeconfig.dev.json
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.dll
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.pdb
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.AssemblyInfoInputs.cache
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.AssemblyInfo.cs
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.csproj.CoreCompileInputs.cache
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.dll
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.pdb
+D:\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.genruntimeconfig.cache
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.exe
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.deps.json
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.runtimeconfig.json
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.runtimeconfig.dev.json
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.dll
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\bin\Debug\netcoreapp3.1\ejercicio_3_2_1_1.pdb
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.csprojAssemblyReference.cache
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.AssemblyInfo.cs
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.dll
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.pdb
+C:\Users\User\Documents\IG Formación DAW\Programacion\ejercicio_3_2_1_1\ejercicio_3_2_1_1\ejercicio_3_2_1_1\obj\Debug\netcoreapp3.1\ejercicio_3_2_1_1.genruntimeconfig.cache

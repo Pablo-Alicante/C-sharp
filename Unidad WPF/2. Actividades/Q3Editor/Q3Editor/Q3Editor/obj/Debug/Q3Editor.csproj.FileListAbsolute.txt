@@ -1,0 +1,30 @@
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe.config
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.pdb
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csprojAssemblyReference.cache
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.g.cs
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\App.g.cs
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.cache
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.lref
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.baml
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.g.resources
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.Properties.Resources.resources
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.GenerateResource.cache
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.CoreCompileInputs.cache
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.exe
+E:\Programacion\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.pdb
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe.config
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.exe
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\bin\Debug\Q3Editor.pdb
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csprojAssemblyReference.cache
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.g.cs
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\App.g.cs
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.cache
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor_MarkupCompile.lref
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\MainWindow.baml
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.g.resources
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.Properties.Resources.resources
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.GenerateResource.cache
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.csproj.CoreCompileInputs.cache
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.exe
+E:\Organizar\Programacion temas\Q3Editor\Q3Editor\Q3Editor\obj\Debug\Q3Editor.pdb

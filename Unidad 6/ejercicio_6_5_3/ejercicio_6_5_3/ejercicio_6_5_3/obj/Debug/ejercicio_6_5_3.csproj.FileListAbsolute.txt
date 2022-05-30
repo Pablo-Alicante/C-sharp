@@ -1,0 +1,15 @@
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\bin\Debug\ejercicio_6_5_3.exe.config
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\bin\Debug\ejercicio_6_5_3.exe
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\bin\Debug\ejercicio_6_5_3.pdb
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.csprojAssemblyReference.cache
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\MainWindow.g.cs
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\App.g.cs
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3_MarkupCompile.cache
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3_MarkupCompile.lref
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\MainWindow.baml
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.g.resources
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.Properties.Resources.resources
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.csproj.GenerateResource.cache
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.csproj.CoreCompileInputs.cache
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.exe
+E:\Programación\Unidad 6\2. Actividades\ejercicio_6_5_3\ejercicio_6_5_3\ejercicio_6_5_3\obj\Debug\ejercicio_6_5_3.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6E7Chqqq6+QIKq2LC2AxKnuVjoM3h5THJ8AjyNrl9eqvsUj/8bp+uAgVZKeq7H9FYWXG9oJ1dNulFTpU5UYPA==",
+  "success": true,
+  "projectFilePath": "E:\\Programación\\Unidad 7\\2. Actividades\\ejercicio_7_2_4\\ejercicio_7_2_4\\ejercicio_7_2_4\\ejercicio_7_2_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bella\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

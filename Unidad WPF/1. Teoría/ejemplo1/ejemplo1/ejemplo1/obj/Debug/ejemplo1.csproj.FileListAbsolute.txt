@@ -1,0 +1,15 @@
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe.config
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\bin\Debug\ejemplo1.pdb
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csprojAssemblyReference.cache
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\MainWindow.g.cs
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\App.g.cs
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1_MarkupCompile.cache
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1_MarkupCompile.lref
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\MainWindow.baml
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.g.resources
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Properties.Resources.resources
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csproj.GenerateResource.cache
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.exe
+E:\Programacion\ejemplo1\ejemplo1\ejemplo1\obj\Debug\ejemplo1.pdb

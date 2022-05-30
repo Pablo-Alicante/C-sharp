@@ -1,0 +1,3 @@
+D:\Programacion\ejercicio_1_7_2\ejercicio_1_7_2\ejercicio_1_7_2\obj\Debug\netcoreapp3.1\ejercicio_1_7_2.AssemblyInfoInputs.cache
+D:\Programacion\ejercicio_1_7_2\ejercicio_1_7_2\ejercicio_1_7_2\obj\Debug\netcoreapp3.1\ejercicio_1_7_2.AssemblyInfo.cs
+D:\Programacion\ejercicio_1_7_2\ejercicio_1_7_2\ejercicio_1_7_2\obj\Debug\netcoreapp3.1\ejercicio_1_7_2.csproj.CoreCompileInputs.cache

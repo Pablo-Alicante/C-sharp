@@ -1,0 +1,15 @@
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\bin\Debug\ejemplo_menu.exe.config
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\bin\Debug\ejemplo_menu.exe
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\bin\Debug\ejemplo_menu.pdb
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.csprojAssemblyReference.cache
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\MainWindow.g.cs
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\App.g.cs
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu_MarkupCompile.cache
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu_MarkupCompile.lref
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\MainWindow.baml
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.g.resources
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.Properties.Resources.resources
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.csproj.GenerateResource.cache
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.csproj.CoreCompileInputs.cache
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.exe
+E:\Programacion\ejemplo_menu\ejemplo_menu\ejemplo_menu\obj\Debug\ejemplo_menu.pdb

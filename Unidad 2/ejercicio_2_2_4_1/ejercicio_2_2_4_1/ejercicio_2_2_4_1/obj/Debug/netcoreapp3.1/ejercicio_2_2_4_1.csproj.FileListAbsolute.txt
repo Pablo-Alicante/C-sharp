@@ -1,0 +1,12 @@
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.AssemblyInfoInputs.cache
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.AssemblyInfo.cs
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.csproj.CoreCompileInputs.cache
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.exe
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.deps.json
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.runtimeconfig.json
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.runtimeconfig.dev.json
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.dll
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\bin\Debug\netcoreapp3.1\ejercicio_2_2_4_1.pdb
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.dll
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.pdb
+D:\Programacion\ejercicio_2_2_4_1\ejercicio_2_2_4_1\ejercicio_2_2_4_1\obj\Debug\netcoreapp3.1\ejercicio_2_2_4_1.genruntimeconfig.cache

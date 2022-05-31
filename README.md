@@ -1,2 +1,2 @@
 # C-sharp
-Son los ejercicios resueltos de primero de DAW del libro de Programación e C# de Nacho Cabanes.
+Son los ejercicios resueltos de primero de DAW del libro: "Introducción a la orogramación con C#" de Nacho Cabanes.
